@@ -21,7 +21,7 @@
 </p>
 
 <br><br>
-### My stats
+### My stats 🌱
 ![gsu's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsu0925&show_icons=true&theme=highcontrast)
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 <br><br>
