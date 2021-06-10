@@ -12,14 +12,12 @@
   <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/HTML5-ff7f00?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Vue.js-11B48A?style=flat-square&logo=vuejs&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=NodeJs&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/PostgreSQL-00599C?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp  
+  <img src="https://img.shields.io/badge/NodeJs-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/PostgreSQL-00599C?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp  
 </p>
 
 <br><br>
