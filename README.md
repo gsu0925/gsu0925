@@ -3,6 +3,11 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Choi%20Jisoo&fontAlign=50&fontAlignY=40&color=gradient)
 ### Hi there 👋
 <hr>
+  
+### Language stats 🌱
+[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=gsu0925&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br><br>
+ 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 
 <p align="center"> Techs that I've used at least once </p>
@@ -19,10 +24,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-00599C?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp  
 </p>
-<br><br>
-
-### Language stats 🌱
-[![언어 사용량 통계](https://github-readme-stats.vercel.app/api/top-langs/?username=gsu0925&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 
 <h3 align="center"> ✨ Me ✨ </h3>
