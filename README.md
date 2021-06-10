@@ -1,6 +1,6 @@
 <div align='center'>
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Choi%20Jisoo&fontAlign=50&fontAlignY=40&color=gradient)
   
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Choi%20Jisoo&fontAlign=50&fontAlignY=40&color=gradient)
 ### Hi there 👋
   
 <h3 align="center">🛠 Tech Stack 🛠</h3>
